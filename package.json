@@ -1,0 +1,21 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "website learn gulp, sass, node",
+  "main": "\u0014server.js",
+  "dependencies": {
+    "node-static": "^0.7.10",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/q0pc0rn/lessnode.git)"
+  },
+  "author": "Aslan Zhubanishchev <landogg@inbox.ru>",
+  "license": "ISC"
+}
